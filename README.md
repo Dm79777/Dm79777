@@ -9,7 +9,7 @@ a working ML model.
 
 
 
-- 👀 I’m interested in applying a ML to address challenges in the world!
+- 👀 I’m interested in applying ML to address challenges in the world!
 - 🌱 I’m currently learning R and Python to create a working ML for FireWatch. 
 - ☎️ Feel free to reach out to me if you would love to collaborate!
 - 🏃Fun fact: I am a competitive provincial runner!
