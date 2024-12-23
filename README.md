@@ -4,5 +4,5 @@ Hey, I'm Divya, a CS student at the University of Waterloo with a keen interest 
 
 Currently, I'm researching at SignSpeak alongside UW for ASL translation. Check out our [project](https://github.com/adityamakkar000/SignSpeak) here! 
 
-Previously, I've built projects including [FireWatch](https://github.com/FireWatch-ai/fireWatch) raising $10k for our fire prediction pipeline.
+Previously, I've built projects including [FireWatch](https://github.com/FireWatch-ai/fireWatch), a fire prediction pipeline.
 
